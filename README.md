@@ -101,6 +101,7 @@ mvn test
 ```
 
 ## Tests
+<img width="1549" height="902" alt="Screenshot 2026-10-08 011410" src="https://github.com/user-attachments/assets/00fbd14f-350a-4169-a703-b9c9b68f8248" />
 
 Both test classes use JUnit 4 and a fresh `EntityManagerFactory` for each test.
 
